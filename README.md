@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Kartik Bambhaniya
 
-Welcome to my GitHub profile !! I'm a UI Designer and Web Developer with a love for creating visually appealing and user-centric digital experiences.
+Welcome to my GitHub profile !!
+
+I'm a UI Designer and Web Developer with a love for creating visually appealing and user-centric digital experiences.
 
 ## 👀 What I Do
 
@@ -11,8 +13,8 @@ Welcome to my GitHub profile !! I'm a UI Designer and Web Developer with a love 
 
 I am proficient in the following technologies:
 
-- **Design :** Figma
-- **Frontend :** HTML, CSS, JavaScript
+- **Design :** `Figma`
+- **Frontend :** `HTML`, `CSS`, `JavaScript`
 
 ## 📫 Connect With Me
 
