@@ -20,6 +20,6 @@ Feel free to reach out to me through :
   
   [![Explore Me](./ExploreMe.svg)](https://bento.me/kartic)
 
-  [![Buy Me a Coffee](./BuyMeaCoffee.png)](https://buymeacoffee.com/kartic)
+  [![Buy Me a Coffee](./BuyMeaCoffee.svg)](https://buymeacoffee.com/kartic)
 
 Thank you for stopping by !! Let's create, innovate, and build amazing things together. 🚀
