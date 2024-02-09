@@ -18,7 +18,7 @@ I am proficient in the following technologies:
 
 Feel free to reach out to me through :
   
-  [Explore Me](https://bento.me/kartic)
+  [![Explore Me](./ExploreMe.svg)](https://bento.me/kartic)
 
   [![Buy Me a Coffee](./BuyMeaCoffee.png)](https://buymeacoffee.com/kartic)
 
