@@ -2,19 +2,19 @@
 
 Welcome to my GitHub profile !!
 
-I'm a UI Designer and Web Developer with a love for creating visually appealing and user-centric digital experiences.
+I'm a UI/UX & Frontend Developer with a love for creating visually appealing and user-centric digital experiences.
 
 ## 👀 What I Do
 
 - **UI Design :** Crafting engaging and intuitive user interfaces and experiences.
-- **Web Development :** Building responsive and dynamic websites using Javascript.
+- **Web Development :** Building responsive and dynamic websites using React & Javascript.
 
 ## 👉 Technologies
 
 I am proficient in the following technologies:
 
 - **Design :** `Figma`
-- **Frontend :** `HTML`, `CSS`, `JavaScript`
+- **Frontend :** `React`, `JavaScript`
 
 ## 📫 Connect With Me
 
