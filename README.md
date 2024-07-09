@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Kartik
 
-Welcome to my GitHub profile !!
-
 I'm a **UI/UX Designer** & **Frontend Developer** with a love for creating visually appealing and user-centric digital experiences.
 
 ## 👀 What I Do
 
 &nbsp; &nbsp;✦ **UI/UX Design :** Crafting engaging and intuitive user interfaces and experiences.
+
 &nbsp; &nbsp;✦ **Web Development :** Building responsive and dynamic websites using React & Javascript.
 
 ## ⚙️ Technologies
