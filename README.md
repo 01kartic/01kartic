@@ -1,27 +1,26 @@
-# 👋 Hi there, I'm Kartik Bambhaniya
+# 👋 Hi, I'm Kartik
 
 Welcome to my GitHub profile !!
 
-I'm a UI/UX & Frontend Developer with a love for creating visually appealing and user-centric digital experiences.
+I'm a **UI/UX Designer** & **Frontend Developer** with a love for creating visually appealing and user-centric digital experiences.
 
 ## 👀 What I Do
 
-- **UI Design :** Crafting engaging and intuitive user interfaces and experiences.
-- **Web Development :** Building responsive and dynamic websites using React & Javascript.
+&nbsp; &nbsp;✦ **UI/UX Design :** Crafting engaging and intuitive user interfaces and experiences.
+&nbsp; &nbsp;✦ **Web Development :** Building responsive and dynamic websites using React & Javascript.
 
-## 👉 Technologies
+## ⚙️ Technologies
 
 I am proficient in the following technologies:
 
-- **Design :** `Figma`
-- **Frontend :** `React`, `JavaScript`
+&nbsp; &nbsp;✦ Design : **Figma**, **Framer**
 
-## 📫 Connect With Me
+&nbsp; &nbsp;✦ Frontend : **React**, **Tailwind CSS**, **JavaScript** and **HTML**
+
+## 🤝 Let's connect
 
 Feel free to reach out to me through :
   
-  [Explore Me 😄](https://kartic.online)
-  
-  [Buy Me a Coffee ☕](https://buymeacoffee.com/kartic)
+  [My Socials 😄](https://kartic.online/links) &nbsp; ✦  &nbsp; [Buy Me a Coffee ☕](https://buymeacoffee.com/kartic)
 
 Thank you for stopping by !! Let's create, innovate, and build amazing things together. 🚀
