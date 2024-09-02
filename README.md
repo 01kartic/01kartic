@@ -4,17 +4,17 @@ I'm a **UI/UX Designer** & **Frontend Developer** with a love for creating visua
 
 ## 👀 What I Do
 
-&nbsp; &nbsp;✦ **Designing :** Crafting engaging and intuitive user interfaces and experiences.
+&nbsp; ✦ &nbsp; **Designing :** Crafting engaging and intuitive user interfaces and experiences.
 
-&nbsp; &nbsp;✦ **Development :** Building responsive and dynamic websites using React & Javascript.
+&nbsp; ✦ &nbsp; **Development :** Building responsive and dynamic websites using React & Javascript.
 
 ## ⚙️ Technologies
 
 I am proficient in the following technologies:
 
-&nbsp; &nbsp;✦ Design : **Figma**, **Framer**
+&nbsp; ✦ &nbsp; Design : **Figma**, **Framer**
 
-&nbsp; &nbsp;✦ Development : **React**, **APIs**, **Tailwind CSS**, **JavaScript** and **HTML**
+&nbsp; ✦ &nbsp; Development : **React**, **APIs**, **Tailwind CSS**, **JavaScript** and **HTML**
 
 ## 🤝 Let's connect
 
