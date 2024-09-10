@@ -4,6 +4,7 @@ I'm a **UI/UX Designer** & **Frontend Developer** with a love for creating visua
 
 ### 🌐 Socials :
 
+[![Website](https://img.shields.io/badge/website-white?style=for-the-badge&logo=safari&logoColor=%23242526)](https://kartic.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/01kartic)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/01_kartic) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/01_kartic)
