@@ -30,7 +30,7 @@ I'm a **UI/UX Designer** & **Frontend Developer** with a love for creating visua
 
 ### 📊 GitHub Stats :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=01kartic&theme=transparent&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=01kartic&theme=github-light&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_height=180&hide_longest_streak=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=01kartic&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 💰 You can help me by Donating
